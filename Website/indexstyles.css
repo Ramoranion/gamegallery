@@ -1,0 +1,43 @@
+html {
+	height: 103%;
+	text-align: center;
+	background-image: url("Witcher-Background.png");
+	background-repeat: no-repeat;
+}
+
+body {
+	
+	height: 103%;
+	/*background: linear-gradient(to bottom, #33cccc 0%, #0066cc 100%);*/
+	font-family: Arial;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 45px;
+}
+
+p {
+	font-size: 30px;
+}
+
+
+li{
+	border-left: 6px solid red;
+	background-color: darkgrey; 
+	margin-right: 35%;
+	margin-left: 35%;
+	margin-bottom: 6px;
+}
+
+div.hintergrund {
+	font-size: 30px;
+	color: red;
+}
+
+
+
